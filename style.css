@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+a {
+  text-decoration: none;
+  font-size: 24px;
+  color: #f9faf8;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #1f2937;
+  font-size: 24px;
+  color: #f9faf8;
+}
