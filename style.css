@@ -9,6 +9,7 @@ ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 24px;
 }
 a {
   text-decoration: none;
@@ -16,10 +17,14 @@ a {
   color: #f9faf8;
 }
 nav {
+  padding: 16px 200px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   background: #1f2937;
   font-size: 24px;
   color: #f9faf8;
+}
+.logo {
+  font-weight: 900;
 }
