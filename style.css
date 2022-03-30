@@ -13,8 +13,8 @@ ul {
 }
 a {
   text-decoration: none;
-  font-size: 24px;
-  color: #f9faf8;
+  font-size: 18px;
+  color: #e5e7eb;
 }
 nav {
   padding: 16px 200px;
@@ -22,9 +22,8 @@ nav {
   justify-content: space-between;
   align-items: center;
   background: #1f2937;
-  font-size: 24px;
-  color: #f9faf8;
 }
 .logo {
-  font-weight: 900;
+  font-size: 24px;
+  color: #f9faf8;
 }
